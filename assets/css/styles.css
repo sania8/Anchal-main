@@ -72,6 +72,12 @@
   background-color:rgb(254, 247, 191); 
   height: 23rem;
 }
+.work__img3{
+  padding: 20px; 
+  align-items: center; 
+  background-color:rgb(241, 161, 211); 
+  height: 23rem;
+}
 
 /*===== BASE =====*/
 *, ::before, ::after {
